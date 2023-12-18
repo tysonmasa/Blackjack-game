@@ -1,0 +1,15 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+lib/
+runAllTests
+.gitmodules
+.vscode/
+src/a.out
+tests/Makefile
+tests/CMakeCache.txt
+tests/cmake_install.cmake
+tests/lib
+tests/bin
+tests/runAllTests
